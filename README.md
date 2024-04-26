@@ -70,7 +70,7 @@ Este projeto contém scripts de teste de carga desenvolvidos no Apache JMeter pa
 # API Testing Project README
 
 ## Project Description
-This testing project was developed to test basic operations on a RESTful API that manages users, posts, comments, and todos (tasks). It involves CRUD operations (Create, Read, Update, Delete) and nested resource retrieval operations. 
+This testing project was developed to test basic operations on a RESTful API that manages users, posts, comments, and todos (tasks). It involves CRUD operations (Create, Read, Update, Delete) and nested resource retrieval operations.
 
 ## Available Resources
 1. Users
