@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "B4C52C43448756592CBF8C3CDF20083A",
+  "keywordClasses": [
+    {
+      "name": "com.db.workWithDataFromDB1",
+      "keywordMethods": [
+        {
+          "name": "runObjectoDB",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openConnectionDBToTest",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "closeConnectionDB",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test_Exercise_Sysmatch1@email.com'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'male'</initValue>
+      <name>gender</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'active'</initValue>
+      <name>status</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'6877231'</initValue>
+      <name>Id_User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Teste_Sysmatch'</initValue>
+      <name>name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'newTeste_Sysmatch'</initValue>
+      <name>new_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'119880'</initValue>
+      <name>Id_Post</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Lorem ipsum dolor sit amet'</initValue>
+      <name>title_Post</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada justo nec ipsum vulputate, sed fermentum neque molestie. Fusce nec lacus id mi fermentum pharetra.'</initValue>
+      <name>body_Post</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'93246'</initValue>
+      <name>Id_Comments</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'this is how we can create a comment'</initValue>
+      <name>body_Comments</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2024-04-26T10:58:47.035'</initValue>
+      <name>SimpleDateFormat</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'48027'</initValue>
+      <name>Id_Todos</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'My todos is completed'</initValue>
+      <name>title_Todos</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

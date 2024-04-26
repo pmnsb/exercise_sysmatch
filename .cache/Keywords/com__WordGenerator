@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "7CB3DCBF92DD1DB207CCD335C75FCCF8",
+  "keywordClasses": [
+    {
+      "name": "com.WordGenerator",
+      "keywordMethods": [
+        {
+          "name": "generateAndSetDocID",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generateAndSetDocumentFormat",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

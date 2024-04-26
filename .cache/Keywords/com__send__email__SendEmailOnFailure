@@ -1,0 +1,60 @@
+{
+  "keywordFileContentHash": "0AA0B24D0A5E45218A2ACB61DD481B49",
+  "keywordClasses": [
+    {
+      "name": "com.send.email.SendEmailOnFailure",
+      "keywordMethods": [
+        {
+          "name": "sendEmail",
+          "parameters": [
+            {
+              "name": "subject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "body",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "utilizadores",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    },
+    {
+      "name": "com.send.email.SendEmailOnFailure$1",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

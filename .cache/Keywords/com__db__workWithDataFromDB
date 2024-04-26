@@ -1,0 +1,36 @@
+{
+  "keywordFileContentHash": "92BCF612D30FF3F752754A2535CD1375",
+  "keywordClasses": [
+    {
+      "name": "com.db.workWithDataFromDB",
+      "keywordMethods": [
+        {
+          "name": "runCreateObjeDB",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "runObjectoDB",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openConnectionDBToTest",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openConnectionDBToCreateObje",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "closeConnectionDB",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

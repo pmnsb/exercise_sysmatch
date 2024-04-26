@@ -1,0 +1,49 @@
+{
+  "keywordFileContentHash": "CF5BACAE0D53FC7546CA26E4C185A844",
+  "keywordClasses": [
+    {
+      "name": "com.swre.encryption",
+      "keywordMethods": [
+        {
+          "name": "encrypt",
+          "parameters": [
+            {
+              "name": "property",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "decrypt",
+          "parameters": [
+            {
+              "name": "string",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

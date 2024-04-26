@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "5C0798C3C993C8CA7EA20B9C84A9E8F9",
+  "keywordClasses": [
+    {
+      "name": "com.axe.accessibility",
+      "keywordMethods": [
+        {
+          "name": "checkAccessibility",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
