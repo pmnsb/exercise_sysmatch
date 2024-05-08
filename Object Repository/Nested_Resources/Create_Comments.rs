@@ -10,7 +10,7 @@
       <authorizationInfo>
          <entry>
             <key>bearerToken</key>
-            <value>fb7d8ad1c10b0f511b2901777319e79d522b1771fbc84cff79e7abe6dffa32d5</value>
+            <value></value>
          </entry>
       </authorizationInfo>
       <authorizationType>Bearer</authorizationType>
